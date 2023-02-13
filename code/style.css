@@ -421,4 +421,8 @@ button:hover{
    font-size: large;
    
 }
+.col-md-8col-sm-8col-xs-12{
+	background-color: white;
+	color: black;
+}
 
